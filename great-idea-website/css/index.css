@@ -84,7 +84,8 @@ a {
 
 
 header {
-height: 10%	
+height: 10%;
+margin-bottom: -80px;;
 }
 
 
@@ -103,6 +104,7 @@ footer {
 .wrapper {
 	padding: 5%
 }
+
 
 .logo-container {
 	display: inline-block;
@@ -161,7 +163,8 @@ footer {
 } 
 
 .first-content-group {
-margin-left: 8%;
+padding-top: 1%;
+margin-left: 5%;
 margin-top: 5%;
 
 font-size: 19px;
@@ -175,6 +178,7 @@ font-size: 19px;
 
 .gallery img {
 	width: 100%;
+
 }
 
 .services {
